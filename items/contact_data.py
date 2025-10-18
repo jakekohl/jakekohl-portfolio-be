@@ -4,7 +4,7 @@ CONTACT = [
     "value": "jacob.jp.kohl@gmail.com",
     "icon": "pi pi-envelope",
     "link": "mailto:jacob.jp.kohl@gmail.com",
-    "description": "Best way to reach me for professional inquiries",
+    "description": "Best way for professional inquiries",
     "dataTest": "contact-email"
   },
   {
@@ -28,17 +28,9 @@ CONTACT = [
     "value": "hawkeye.59",
     "icon": "pi pi-discord",
     "link": "https://github.com/jakekohl#:~:text=https%3A//discordapp.com/users/1097326508814639194",
-    "description": "Chat with me on Discord for quick discussions",
+    "description": "Chat with me for quick discussions",
     "dataTest": "contact-discord"
   },
-  {
-    "type": "(Twitter)",
-    "value": "@jacobofwonder",
-    "icon": "pi pi-twitter",
-    "link": "https://x.com/jacobofwonder",
-    "description": "I post on X every now and then but it\'s not my main platform",
-    "dataTest": "contact-twitter"
-  }
 ]
 
 SPECIALTIES = [
