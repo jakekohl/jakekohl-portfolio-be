@@ -23,14 +23,14 @@ CONTACT = [
     "description": "Check out my code and projects",
     "dataTest": "contact-github"
   },
-  {
-    "type": "Discord",
-    "value": "hawkeye.59",
-    "icon": "pi pi-discord",
-    "link": "https://github.com/jakekohl#:~:text=https%3A//discordapp.com/users/1097326508814639194",
-    "description": "Chat with me for quick discussions",
-    "dataTest": "contact-discord"
-  },
+  # {
+  #   "type": "Discord",
+  #   "value": "hawkeye.59",
+  #   "icon": "pi pi-discord",
+  #   "link": "https://github.com/jakekohl#:~:text=https%3A//discordapp.com/users/1097326508814639194",
+  #   "description": "Chat with me for quick discussions",
+  #   "dataTest": "contact-discord"
+  # },
 ]
 
 SPECIALTIES = [
