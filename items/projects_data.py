@@ -10,7 +10,7 @@ PROJECTS = [
       "Cypress Testing",
     ],
     "status": 'In Development',
-    "github": 'https://github.com/stride-builder/stride-builder',
+    "github": 'https://github.com/stride-builder/.github',
     "demo": 'https://app.stridebuilder.com',
     "features": [
       "Customizable training plans",
