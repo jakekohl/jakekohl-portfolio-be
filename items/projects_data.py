@@ -1,5 +1,25 @@
 PROJECTS = [
   {
+    "title": "Stride Builder",
+    "description": "A tool to help runners build their own custom training plans.",
+    "technologies": ["Python", "FastAPI", "JavaScript", "VueJS", "MongoDB"],
+    "skillsLeveraged": [
+      "Full-Stack Development",
+      "API Development",
+      "Database Design",
+      "Cypress Testing",
+    ],
+    "status": 'In Development',
+    "github": 'https://github.com/stride-builder/stride-builder',
+    "demo": 'https://app.stridebuilder.com',
+    "features": [
+      "Customizable training plans",
+      "Progress tracking",
+    ],
+    "dataTest": 'project-stride-builder',
+    "images": [],
+  },
+  {
     "title": 'Personal Portfolio Website',
     "description": "A modern, responsive Vue.js portfolio built with PrimeVue components, featuring automated testing with Cypress and Playwright.",
     "technologies": ["Vue.js", "PrimeVue", "Vite", "Cypress", "Playwright"],
@@ -13,13 +33,12 @@ PROJECTS = [
       "AI Agentic Development"
     ],
     "status": 'In Development',
-    "github": 'https://github.com/jakekohl/jakekohl.github.io',
-    "demo": 'https://jakekohl.github.io',
+    "github": 'https://github.com/jakekohl/portfolio',
+    "demo": 'https://www.jakekohl.dev',
     "features": [
       "Responsive design with professional styling",
       "Component-based architecture",
       "Automated testing setup",
-      "GitHub Pages deployment",
     ],
     "dataTest": 'project-portfolio',
     "images": [],
